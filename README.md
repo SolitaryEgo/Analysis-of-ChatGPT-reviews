@@ -1,6 +1,7 @@
 # ChatGPT评论分析
 
 ## 该数据集主要包括 ChatGPT Android App 的每日更新用户评论和评分。它还包含有关这些评论的相关性及其发布日期的数据。
+**ChatGPT App 的 Google Play 商店评论**
 
 ### 字段  |  说明
 “`
