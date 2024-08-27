@@ -4,14 +4,28 @@
 
 ### 字段
 “`
-**reviewId**   |  **评论id**
-**userName**   |  **用户名**
-**content**  |  **内容**
-**score**  |  **得分**
-**thumbsUpCount**  |  **喜欢**
-**reviewCreatedVersion**  |  **评论版本**
-**at**  |  **日期**
-**appVersion**  |  **应用程序版本**
+reviewId   |  评论id
+“`  
+“`
+userName  |  用户名
+“` 
+“`
+content  |  内容
+“` 
+“`
+score  |  得分
+“` 
+“`
+thumbsUpCount  |  喜欢
+“` 
+“`
+reviewCreatedVersion  |  评论版本
+“` 
+“`
+at  |  日期
+“` 
+“`
+appVersion  |  应用程序版本
 “`  
 
 包含 ChatGPT 应用程序定期更新的用户评论和评分集合，以及有关每条评论的相关性和发布日期的信息。
